@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Md. Arafat Rahman</h1>
-<h3 align="center">A Passionate ASP.NET Developer from Bangladesh</h3>
 
 <!-- ===================== Waving Banner ===================== -->
 <div align="center">
@@ -29,18 +27,17 @@
 </p>
 
 ---
+## 🚀 GitHub Stats & Profile Card
 
-# 🚀 GitHub Stats & Profile Card
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arafat-cse&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=arafat-cse&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arafat-cse&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=arafat-cse&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-cse&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-cse&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
----
 
 # 🛠️ Tech Stack
 <p align="center">
