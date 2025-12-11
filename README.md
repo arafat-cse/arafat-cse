@@ -21,22 +21,18 @@
 
 ---
 
-# 🏆 GitHub Trophies (Dark Theme)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arafat-cse&theme=darkhub&no-frame=true&margin-w=10&column=7" />
-</p>
+## 🏆 GitHub Trophies (Dark Theme)
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
 
 ---
+
 ## 🚀 GitHub Stats & Profile Card
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arafat-cse&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=arafat-cse&theme=tokyonight&hide_border=false" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-cse&layout=compact&theme=tokyonight&hide_border=false" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)
 
 
 # 🛠️ Tech Stack
