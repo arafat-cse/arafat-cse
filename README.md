@@ -21,19 +21,6 @@
 
 ---
 
-## 🏆 GitHub Trophies (Dark Theme)
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
-
----
-
-## 🚀 GitHub Stats & Profile Card
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)
-
 
 # 🛠️ Tech Stack
 <p align="center">
